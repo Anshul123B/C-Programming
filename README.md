@@ -1,2 +1,3 @@
 # C/C++ Programming
-This Repository contain some of my C & C++ Programs.
+
+This Repository contain some of the code in C and C++ Programming language.
